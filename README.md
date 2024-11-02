@@ -1,5 +1,4 @@
 Hi there! 
-I consider myself an ethical hacker.
 My field of interests are:
     1. Python automation
     2. Bash shell scripting
