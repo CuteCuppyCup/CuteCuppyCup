@@ -1,8 +1,4 @@
 Hi there! 
-My field of interests are:
-    1. Python automation
-    2. Bash shell scripting
-    3. OSINT
 
 <!---
 CuteCuppyCup/CuteCuppyCup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
